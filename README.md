@@ -61,10 +61,3 @@ With the increasing number of unwanted messages, spam detection has become an im
    * SVM performed the best
    * Achieved around **98% accuracy** and **99% precision**
    
-
-## How to Run the Project
-
-bash id="a7d92x"
-git clone https://github.com/gauravbed/spam-email-classifier.git
-cd spam-email-classifier
-
