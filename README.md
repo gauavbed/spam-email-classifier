@@ -65,9 +65,6 @@ With the increasing number of unwanted messages, spam detection has become an im
 ## How to Run the Project
 
 bash id="a7d92x"
-git clone https://github.com/your-username/spam-email-classifier.git
+git clone https://github.com/gauravbed/spam-email-classifier.git
 cd spam-email-classifier
-pip install -r requirements.txt
-streamlit run app.py
 
-If you want, I can also make a **short version (for resume projects)** or help you answer **interview questions based on this project** 👍
